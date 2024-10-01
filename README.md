@@ -1,5 +1,9 @@
 ![MasterHead](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/95116480-eb2f-4162-ae80-2563deccfd27)
 <h3 align="center">A passionate developer and bug hunter from Turkey</h3>
+<h4 align="center">Önceden kullanmış olduğum @TurKLoJeN github hesabıma erişimimi kaybettim bu yüzden projelerimi bu yeni profilden paylaşacağım</h4>
+<h4 align="center">I have lost access to my previous GitHub account, @TurKLoJeN. Therefore, I will be sharing my projects from this new profile.</h4>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turklojen&label=Profile%20views&color=0e75b6&style=flat" alt="turklojen" /> </p>
 
